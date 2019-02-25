@@ -1,0 +1,20 @@
+During startup - Warning message:
+Setting LC_CTYPE failed, using "C" 
+rgdal: version: 1.3-9, (SVN revision 794)
+ Geospatial Data Abstraction Library extensions to R successfully loaded
+ Loaded GDAL runtime: GDAL 2.4.0, released 2018/12/14
+ Path to GDAL shared files: /home/satbigvm/anaconda3/share/gdal
+ GDAL binary built with GEOS: TRUE 
+ Loaded PROJ.4 runtime: Rel. 5.2.0, September 15th, 2018, [PJ_VERSION: 520]
+ Path to PROJ.4 shared files: /home/satbigvm/anaconda3/share/proj
+ Linking to sp version: 1.3-1 
+rgeos version: 0.3-28, (SVN revision 572)
+ GEOS runtime version: 3.7.1-CAPI-1.11.1 0 
+ Linking to sp version: 1.3-1 
+ Polygon checking: TRUE 
+
+[1] "read data"
+[1] "Mercator projection"
+[1] "create STIDF"
+[1] "creating variogram"
+[1] "done"
